@@ -1,0 +1,33 @@
+{
+  "name": "socketapp",
+  "version": "1.0.0",
+  "description": "this app contains server side code for socket.",
+  "main": "app.js",
+  "scripts": {
+    "test": "npm test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/gargikantesaria/socketApp-nodeJS.git"
+  },
+  "keywords": [
+    "socket",
+    "socket",
+    "node"
+  ],
+  "author": "Gargi Kantesaria",
+  "license": "ISC",
+  "dependencies": {
+    "async": "^2.6.2",
+    "cors": "^2.8.5",
+    "dotenv": "^6.2.0",
+    "ejs": "^2.6.1",
+    "express": "^4.17.1",
+    "nodemon": "^1.19.1",
+    "socket.io": "^2.2.0"
+  },
+  "bugs": {
+    "url": "https://github.com/gargikantesaria/socketApp-nodeJS/issues"
+  },
+  "homepage": "https://github.com/gargikantesaria/socketApp-nodeJS#readme"
+}
